@@ -112,9 +112,6 @@ Constraints
 • You may use any data structure from the Java Collection Framework.
 • Write your solution in Java. The solution code must be your own.
 • Use the mysql JDBC connection for Java.
-• If in doubt for testing, I will be running your program on bluenose.cs.dal.ca. Correct
-operation of your program shouldn’t rely on any packages that aren’t available on that
-system.
 
 Notes
 =========
