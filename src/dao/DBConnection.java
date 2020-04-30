@@ -22,7 +22,7 @@ public  class DBConnection
 							}
 							String con="jdbc:mysql://db.cs.dal.ca/csci3901?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
 							try {
-								return connection=DriverManager.getConnection(con,"vshaik","B00835822");
+								return connection=DriverManager.getConnection(con,"XXXXX","XXXXXXXX");
 							} catch (SQLException e) {
 								System.out.println("Database Connection failed");
 							}
