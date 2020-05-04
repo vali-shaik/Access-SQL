@@ -2,7 +2,8 @@
 Java program to extract information from Database
 
 Access SQL through Java. Gain some exposure to XML.
-Question
+
+Problem
 ============
 You work for the Mini-Me Toy Car company. Management periodically wants a summary of the
 company’s operation over a period of time.
@@ -106,23 +107,3 @@ Sample output:
 </employee>
 </staff_list>
 </year_end_summary >
-
-Constraints
-===========
-• You may use any data structure from the Java Collection Framework.
-• Write your solution in Java. The solution code must be your own.
-• Use the mysql JDBC connection for Java.
-
-Notes
-=========
-• Use SQL vs Java as you deem best.
-• Be sure to document your approach and any resources that you use.
-• Look at where the bulk of the marks are in the marking scheme to help focus your
-efforts.
-• You can run your queries against the csci3901 database on db.cs.dal.ca I will also make
-the sql file for the database available to you so that you can create your own copy of the
-database.
-• You are expected to submit
-o Your Java code
-o External documentation
-o An argument as to why your solution is ready to be deployed
